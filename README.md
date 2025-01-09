@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 ## Hi there, I'm Nahom 👋
 
 - 🔭 I’m currently working on [twitter clone](https://github.com/gizawNahom/twitter)
-- 👯 I’m looking to collaborate on web development projects, particularly those using React.
+- 👯 I’m looking to collaborate on web development projects, particularly those using React and Node.js.
